@@ -1,7 +1,8 @@
 ### Hi there 👋
-I'm Moony, a 21 year old programmer who likes to program some projects. I code in my free time as a hobby, 
-I code most of the time in Java, TypeScript, GOlang and C#. If you feel like chatting with me, you can add
-me through Discord, my user is `Moony#0235`
+I'm Moony, a 21 year old programmer who likes to program some projects, I started programming in 2017 and I'm still continueing my journey. 
+CUrrently I'm working on trying to code a helpful Discord bot.
+I code in my free time as a hobby, I code most of the time in Java, TypeScript, GOlang and C#. 
+If you feel like chatting with me, you can add me through Discord, my user is `Moony#0235`
 
 <!--
 **iVitaliya/iVitaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
