@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{iVitaliya}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{iVitaliya}/count.svg" alt="iVitaliya :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVitaliya&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVitaliya&langs_count=10&theme=tokyonight&layout=compact" alt="iVitaliya :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iVitaliya&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iVitaliya&show_icons=true&theme=synthwave" alt="iVitaliya :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
